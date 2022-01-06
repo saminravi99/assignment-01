@@ -29,7 +29,7 @@
     font-size: 60px;
    
 }
-.vertical-line{
+.vertical-line-first-section{
     margin-left: 22px;
     border-left: 4px solid;
     border-image: linear-gradient( red, salmon);
